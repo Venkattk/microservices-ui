@@ -19,7 +19,8 @@ h1 {
   font-size: 40px;
 }
 #top {
-  background: #555555;
+  /*background: #555555;*/
+  background: #87ceeb;
   padding: 10px 0;
 }
 #top .offer {
@@ -1269,8 +1270,8 @@ h1 {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #4993e4;
-  /*background-color: #49e45b; green */
+  background-color: #49e45b;
+  /*background-color: #4993e4; blue */
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
